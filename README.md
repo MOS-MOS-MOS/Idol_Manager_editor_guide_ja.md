@@ -1,0 +1,1 @@
+# Idol_Manager_editor_guide_ja.md
